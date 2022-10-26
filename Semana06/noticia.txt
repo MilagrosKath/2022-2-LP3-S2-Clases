@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 26 10:11:04 2022
+
+@author: oneti
+"""
+
+
+“De pesadilla”: Científicos logran una representación sonora del campo magnético de la Tierra
+Sonidos representan cómo reacciona frente a una erupción solar.
+
+El campo magnético de la Tierra que nos protege de la radiación cósmica y partículas cargadas que fluyen desde el Sol. Esta parte esencial de nuestro planeta no se puede ver, ni escuchar… hasta ahora.
+
+La Agencia Espacial Europea (ESA) publicó el resultado del trabajo de científicos la Universidad Técnica de Dinamarca, dándonos una pista de cómo suena el campo magnético de la Tierra.
+
+Sonido de campo magnético de la Tierra: ¿Cómo se logró esto?
+Los científicos utilizaron señales magnéticas medidas por la misión satelital Swarm de la ESA para producir estos sonidos.
+
+Fuente:RPP
+Fuente:Milagros Soto - Estudiante de Untels
